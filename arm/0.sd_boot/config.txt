@@ -1,0 +1,5 @@
+enable_uart=1
+arm_64bit=0
+kernel_addr=0x8000
+kernel=kernel7.img
+core_freq=250
